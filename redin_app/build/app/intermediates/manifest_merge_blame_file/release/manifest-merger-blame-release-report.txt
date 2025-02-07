@@ -1,7 +1,7 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.example.redin_app"
-4    android:versionCode="1"
+4    android:versionCode="1001"
 5    android:versionName="0.1.0" >
 6
 7    <uses-sdk
@@ -9,8 +9,8 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:2:5-67
-11-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:2:22-64
+11-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:2:5-67
+11-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:2:22-64
 12    <!--
 13         Required to query activities that can process text, see:
 14         https://developer.android.com/training/package-visibility and
@@ -19,16 +19,16 @@
 17         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
 18    -->
 19    <queries>
-19-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:41:5-46:15
+19-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:41:5-46:15
 20        <intent>
-20-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:42:9-45:18
+20-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:42:9-45:18
 21            <action android:name="android.intent.action.PROCESS_TEXT" />
-21-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:43:13-73
-21-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:43:21-70
+21-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:43:13-73
+21-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:43:21-70
 22
 23            <data android:mimeType="text/plain" />
-23-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:44:13-51
-23-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:44:19-48
+23-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:44:13-51
+23-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:44:19-48
 24        </intent>
 25    </queries>
 26
@@ -45,34 +45,34 @@
 32
 33    <application
 34        android:name="android.app.Application"
-34-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:5:9-42
+34-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:5:9-42
 35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 35-->[androidx.core:core:1.13.1] C:\Users\Emi\.gradle\caches\transforms-3\c666c258fca39b3353b46678a6b928ab\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 36        android:extractNativeLibs="true"
 37        android:icon="@mipmap/ic_launcher"
-37-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:6:9-43
+37-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:6:9-43
 38        android:label="Redin" >
-38-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:4:9-30
+38-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:4:9-30
 39        <activity
-39-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:7:9-29:20
+39-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:7:9-29:20
 40            android:name="com.example.redin_app.MainActivity"
-40-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:8:13-41
+40-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:8:13-41
 41            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-41-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:13:13-163
+41-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:13:13-163
 42            android:enableOnBackInvokedCallback="true"
-42-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:16:13-55
+42-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:16:13-55
 43            android:exported="true"
-43-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:9:13-36
+43-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:9:13-36
 44            android:hardwareAccelerated="true"
-44-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:14:13-47
+44-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:14:13-47
 45            android:launchMode="singleTop"
-45-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:10:13-43
+45-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:10:13-43
 46            android:taskAffinity=""
-46-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:11:13-36
+46-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:11:13-36
 47            android:theme="@style/LaunchTheme"
-47-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:12:13-47
+47-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:12:13-47
 48            android:windowSoftInputMode="adjustResize" >
-48-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:15:13-55
+48-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:15:13-55
 49
 50            <!--
 51                 Specifies an Android theme to apply to this Activity as soon as
@@ -81,21 +81,21 @@
 54                 to determine the Window background behind the Flutter UI.
 55            -->
 56            <meta-data
-56-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:21:13-24:15
+56-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:21:13-24:15
 57                android:name="io.flutter.embedding.android.NormalTheme"
-57-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:22:17-72
+57-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:22:17-72
 58                android:resource="@style/NormalTheme" />
-58-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:23:17-54
+58-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:23:17-54
 59
 60            <intent-filter>
-60-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:25:13-28:29
+60-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:25:13-28:29
 61                <action android:name="android.intent.action.MAIN" />
-61-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:26:17-69
-61-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:26:25-66
+61-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:26:17-69
+61-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:26:25-66
 62
 63                <category android:name="android.intent.category.LAUNCHER" />
-63-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:27:17-77
-63-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:27:27-74
+63-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:27:17-77
+63-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:27:27-74
 64            </intent-filter>
 65        </activity>
 66        <!--
@@ -103,11 +103,11 @@
 68             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 69        -->
 70        <meta-data
-70-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:32:9-34:33
+70-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:32:9-34:33
 71            android:name="flutterEmbedding"
-71-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:33:13-44
+71-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:33:13-44
 72            android:value="2" />
-72-->C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app\src\main\AndroidManifest.xml:34:13-30
+72-->C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app\src\main\AndroidManifest.xml:34:13-30
 73
 74        <uses-library
 74-->[androidx.window:window:1.2.0] C:\Users\Emi\.gradle\caches\transforms-3\3e108fe9d597d03770ae82acaebb5b63\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40

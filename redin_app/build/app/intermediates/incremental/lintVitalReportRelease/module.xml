@@ -1,11 +1,11 @@
 <lint-module
     format="1"
-    dir="C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android\app"
+    dir="C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android\app"
     name=":app"
     type="APP"
     maven="android:app:"
     agpVersion="8.1.0"
-    buildFolder="C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\app"
+    buildFolder="C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\app"
     bootClassPath="C:\Users\Emi\AppData\Local\Android\sdk\platforms\android-34\android.jar;C:\Users\Emi\AppData\Local\Android\sdk\build-tools\33.0.1\core-lambda-stubs.jar"
     javaSourceLevel="1.8"
     compileTarget="android-34">

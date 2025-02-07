@@ -20,8 +20,8 @@ xyz.luan.audioplayers.audioplayers_android-jetified-lifecycle-viewmodel-savedsta
 xyz.luan.audioplayers.audioplayers_android-jetified-tracing-1.2.0-19 C:\Users\Emi\.gradle\caches\transforms-3\fee79d0d8ef3af5dbc14ef6d22d028cf\transformed\jetified-tracing-1.2.0\res
 xyz.luan.audioplayers.audioplayers_android-main-20 C:\Users\Emi\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_android-5.0.0\android\src\main\res
 xyz.luan.audioplayers.audioplayers_android-release-21 C:\Users\Emi\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_android-5.0.0\android\src\release\res
-xyz.luan.audioplayers.audioplayers_android-pngs-22 C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\audioplayers_android\generated\res\pngs\release
-xyz.luan.audioplayers.audioplayers_android-resValues-23 C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\audioplayers_android\generated\res\resValues\release
-xyz.luan.audioplayers.audioplayers_android-mergeReleaseResources-24 C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\audioplayers_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
-xyz.luan.audioplayers.audioplayers_android-mergeReleaseResources-25 C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\audioplayers_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-xyz.luan.audioplayers.audioplayers_android-merged_res-26 C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\audioplayers_android\intermediates\merged_res\release
+xyz.luan.audioplayers.audioplayers_android-pngs-22 C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\audioplayers_android\generated\res\pngs\release
+xyz.luan.audioplayers.audioplayers_android-resValues-23 C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\audioplayers_android\generated\res\resValues\release
+xyz.luan.audioplayers.audioplayers_android-mergeReleaseResources-24 C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\audioplayers_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+xyz.luan.audioplayers.audioplayers_android-mergeReleaseResources-25 C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\audioplayers_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+xyz.luan.audioplayers.audioplayers_android-merged_res-26 C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\audioplayers_android\intermediates\merged_res\release

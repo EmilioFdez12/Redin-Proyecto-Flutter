@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\app\intermediates\flutter\release\libs.jar:unspecified@jar"
-      jars="C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\app\intermediates\flutter\release\libs.jar"
-      resolved="__local_aars__:C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\app\intermediates\flutter\release\libs.jar:unspecified"/>
+      name="__local_aars__:C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\app\intermediates\flutter\release\libs.jar:unspecified@jar"
+      jars="C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\app\intermediates\flutter\release\libs.jar"
+      resolved="__local_aars__:C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\app\intermediates\flutter\release\libs.jar:unspecified"/>
   <library
-      name="C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android@@:audioplayers_android::release"
-      jars="C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\audioplayers_android\.transforms\c554b3fcc33aef24ecb3da616ca0f1a0\transformed\out\jars\classes.jar;C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\audioplayers_android\.transforms\c554b3fcc33aef24ecb3da616ca0f1a0\transformed\out\jars\libs\R.jar"
+      name="C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android@@:audioplayers_android::release"
+      jars="C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\audioplayers_android\.transforms\83b126422717accc480a3ced3dc05c06\transformed\out\jars\classes.jar;C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\audioplayers_android\.transforms\83b126422717accc480a3ced3dc05c06\transformed\out\jars\libs\R.jar"
       resolved="xyz.luan.audioplayers:audioplayers_android:unspecified"
-      folder="C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\audioplayers_android\.transforms\c554b3fcc33aef24ecb3da616ca0f1a0\transformed\out"
+      folder="C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\audioplayers_android\.transforms\83b126422717accc480a3ced3dc05c06\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -17,10 +17,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android@@:fluttertoast::release"
-      jars="C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\fluttertoast\.transforms\1a58b8c17bfa2383fb126fff34854827\transformed\out\jars\classes.jar;C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\fluttertoast\.transforms\1a58b8c17bfa2383fb126fff34854827\transformed\out\jars\libs\R.jar"
+      name="C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android@@:fluttertoast::release"
+      jars="C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\fluttertoast\.transforms\01d346e6be275f8b5a111c4157893fc3\transformed\out\jars\classes.jar;C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\fluttertoast\.transforms\01d346e6be275f8b5a111c4157893fc3\transformed\out\jars\libs\R.jar"
       resolved="com.example.FlutterToast:fluttertoast:unspecified"
-      folder="C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\fluttertoast\.transforms\1a58b8c17bfa2383fb126fff34854827\transformed\out"
+      folder="C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\fluttertoast\.transforms\01d346e6be275f8b5a111c4157893fc3\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -30,10 +30,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android@@:path_provider_android::release"
-      jars="C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\path_provider_android\.transforms\9abd821f40a38b3d91bfa96dba83eb6a\transformed\out\jars\classes.jar;C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\path_provider_android\.transforms\9abd821f40a38b3d91bfa96dba83eb6a\transformed\out\jars\libs\R.jar"
+      name="C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android@@:path_provider_android::release"
+      jars="C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\path_provider_android\.transforms\e1cb84878ab8078283018295d85a7a16\transformed\out\jars\classes.jar;C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\path_provider_android\.transforms\e1cb84878ab8078283018295d85a7a16\transformed\out\jars\libs\R.jar"
       resolved="io.flutter.plugins.pathprovider:path_provider_android:unspecified"
-      folder="C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\path_provider_android\.transforms\9abd821f40a38b3d91bfa96dba83eb6a\transformed\out"
+      folder="C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\path_provider_android\.transforms\e1cb84878ab8078283018295d85a7a16\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -43,10 +43,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\android@@:sqflite_android::release"
-      jars="C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\sqflite_android\.transforms\216f5e58d486770e57393d16a24e5bd3\transformed\out\jars\classes.jar;C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\sqflite_android\.transforms\216f5e58d486770e57393d16a24e5bd3\transformed\out\jars\libs\R.jar"
+      name="C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\android@@:sqflite_android::release"
+      jars="C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\sqflite_android\.transforms\77287a02ed8c52db7a46bc2d0c49435e\transformed\out\jars\classes.jar;C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\sqflite_android\.transforms\77287a02ed8c52db7a46bc2d0c49435e\transformed\out\jars\libs\R.jar"
       resolved="com.tekartik.sqflite:sqflite_android:unspecified"
-      folder="C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\sqflite_android\.transforms\216f5e58d486770e57393d16a24e5bd3\transformed\out"
+      folder="C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\sqflite_android\.transforms\77287a02ed8c52db7a46bc2d0c49435e\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

@@ -4,7 +4,7 @@
             "outputFile": "com.example.redin_app-mergeReleaseResources-24:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Emi\\Desktop\\DOCS\\Flutter\\redin_app\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\Emi\\Desktop\\Redin-Proyecto-Flutter\\redin_app\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

@@ -20,8 +20,8 @@ io.github.ponnamkarthik.toast.fluttertoast-jetified-lifecycle-viewmodel-savedsta
 io.github.ponnamkarthik.toast.fluttertoast-jetified-tracing-1.2.0-19 C:\Users\Emi\.gradle\caches\transforms-3\fee79d0d8ef3af5dbc14ef6d22d028cf\transformed\jetified-tracing-1.2.0\res
 io.github.ponnamkarthik.toast.fluttertoast-main-20 C:\Users\Emi\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.10\android\src\main\res
 io.github.ponnamkarthik.toast.fluttertoast-release-21 C:\Users\Emi\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.10\android\src\release\res
-io.github.ponnamkarthik.toast.fluttertoast-pngs-22 C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\fluttertoast\generated\res\pngs\release
-io.github.ponnamkarthik.toast.fluttertoast-resValues-23 C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\fluttertoast\generated\res\resValues\release
-io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-24 C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\merged.dir
-io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-25 C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-io.github.ponnamkarthik.toast.fluttertoast-merged_res-26 C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\fluttertoast\intermediates\merged_res\release
+io.github.ponnamkarthik.toast.fluttertoast-pngs-22 C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\fluttertoast\generated\res\pngs\release
+io.github.ponnamkarthik.toast.fluttertoast-resValues-23 C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\fluttertoast\generated\res\resValues\release
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-24 C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-25 C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.github.ponnamkarthik.toast.fluttertoast-merged_res-26 C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\fluttertoast\intermediates\merged_res\release

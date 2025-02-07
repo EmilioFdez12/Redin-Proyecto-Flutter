@@ -20,8 +20,8 @@ com.tekartik.sqflite.sqflite_android-jetified-lifecycle-viewmodel-savedstate-2.7
 com.tekartik.sqflite.sqflite_android-jetified-tracing-1.2.0-19 C:\Users\Emi\.gradle\caches\transforms-3\fee79d0d8ef3af5dbc14ef6d22d028cf\transformed\jetified-tracing-1.2.0\res
 com.tekartik.sqflite.sqflite_android-main-20 C:\Users\Emi\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.0\android\src\main\res
 com.tekartik.sqflite.sqflite_android-release-21 C:\Users\Emi\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.0\android\src\release\res
-com.tekartik.sqflite.sqflite_android-pngs-22 C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\sqflite_android\generated\res\pngs\release
-com.tekartik.sqflite.sqflite_android-resValues-23 C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\sqflite_android\generated\res\resValues\release
-com.tekartik.sqflite.sqflite_android-mergeReleaseResources-24 C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\sqflite_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
-com.tekartik.sqflite.sqflite_android-mergeReleaseResources-25 C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\sqflite_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-com.tekartik.sqflite.sqflite_android-merged_res-26 C:\Users\Emi\Desktop\DOCS\Flutter\redin_app\build\sqflite_android\intermediates\merged_res\release
+com.tekartik.sqflite.sqflite_android-pngs-22 C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\sqflite_android\generated\res\pngs\release
+com.tekartik.sqflite.sqflite_android-resValues-23 C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\sqflite_android\generated\res\resValues\release
+com.tekartik.sqflite.sqflite_android-mergeReleaseResources-24 C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\sqflite_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tekartik.sqflite.sqflite_android-mergeReleaseResources-25 C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\sqflite_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tekartik.sqflite.sqflite_android-merged_res-26 C:\Users\Emi\Desktop\Redin-Proyecto-Flutter\redin_app\build\sqflite_android\intermediates\merged_res\release
