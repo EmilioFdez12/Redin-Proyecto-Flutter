@@ -48,7 +48,7 @@ class _MenuScreenState extends State<MenuScreen> {
             right: 0,
             child: Center(
               child: Image.asset(
-                'assets/images/home/welcomeCasino.png',
+                'assets/images/home/casinoWelcome.webp',
                 height: screenSize.height * 0.2,
                 fit: BoxFit.contain,
               ),

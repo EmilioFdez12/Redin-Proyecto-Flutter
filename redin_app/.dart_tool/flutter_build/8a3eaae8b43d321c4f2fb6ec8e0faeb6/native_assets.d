@@ -1,1 +1,0 @@
- C:\\Users\\Emi\\Desktop\\DOCS\\Flutter\\redin_app\\.dart_tool\\flutter_build\\8a3eaae8b43d321c4f2fb6ec8e0faeb6\\native_assets.yaml: 
